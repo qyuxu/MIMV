@@ -1,0 +1,100 @@
+2025-06-13 09:43:47,673 - Using device: cuda:1
+2025-06-13 09:43:54,194 - X_train_tensor shape: torch.Size([69998, 487])
+2025-06-13 09:43:54,195 - y_train_tensor shape: torch.Size([69998])
+2025-06-13 09:43:54,197 - Input dimension: 487
+2025-06-13 09:44:35,059 - Epoch 1/100, Train Loss: 0.4813
+2025-06-13 09:44:41,402 - Epoch 1/100, Val Loss: 0.4675, Val AUC: 0.8606
+2025-06-13 09:44:41,402 - Current learning rate: 0.0001
+2025-06-13 09:44:41,402 - Validation loss improved, saving model.
+2025-06-13 09:45:20,325 - Epoch 2/100, Train Loss: 0.4550
+2025-06-13 09:45:26,665 - Epoch 2/100, Val Loss: 0.4769, Val AUC: 0.8691
+2025-06-13 09:45:26,665 - Current learning rate: 0.0001
+2025-06-13 09:45:26,665 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:46:06,630 - Epoch 3/100, Train Loss: 0.4431
+2025-06-13 09:46:12,977 - Epoch 3/100, Val Loss: 0.4358, Val AUC: 0.8733
+2025-06-13 09:46:12,977 - Current learning rate: 0.0001
+2025-06-13 09:46:12,977 - Validation loss improved, saving model.
+2025-06-13 09:46:51,662 - Epoch 4/100, Train Loss: 0.4324
+2025-06-13 09:46:58,006 - Epoch 4/100, Val Loss: 0.4369, Val AUC: 0.8789
+2025-06-13 09:46:58,006 - Current learning rate: 0.0001
+2025-06-13 09:46:58,006 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:47:36,826 - Epoch 5/100, Train Loss: 0.4251
+2025-06-13 09:47:43,170 - Epoch 5/100, Val Loss: 0.4365, Val AUC: 0.8807
+2025-06-13 09:47:43,170 - Current learning rate: 0.0001
+2025-06-13 09:47:43,170 - No improvement in validation loss. Patience counter: 2/5
+2025-06-13 09:48:22,817 - Epoch 6/100, Train Loss: 0.4210
+2025-06-13 09:48:29,169 - Epoch 6/100, Val Loss: 0.4361, Val AUC: 0.8738
+2025-06-13 09:48:29,169 - Current learning rate: 0.0001
+2025-06-13 09:48:29,169 - No improvement in validation loss. Patience counter: 3/5
+2025-06-13 09:49:08,604 - Epoch 7/100, Train Loss: 0.4193
+2025-06-13 09:49:14,962 - Epoch 7/100, Val Loss: 0.4200, Val AUC: 0.8836
+2025-06-13 09:49:14,963 - Current learning rate: 0.0001
+2025-06-13 09:49:14,963 - Validation loss improved, saving model.
+2025-06-13 09:49:54,239 - Epoch 8/100, Train Loss: 0.4131
+2025-06-13 09:50:00,602 - Epoch 8/100, Val Loss: 0.4310, Val AUC: 0.8785
+2025-06-13 09:50:00,602 - Current learning rate: 0.0001
+2025-06-13 09:50:00,602 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:50:46,944 - Epoch 9/100, Train Loss: 0.4118
+2025-06-13 09:50:53,304 - Epoch 9/100, Val Loss: 0.4193, Val AUC: 0.8832
+2025-06-13 09:50:53,304 - Current learning rate: 0.0001
+2025-06-13 09:50:53,304 - Validation loss improved, saving model.
+2025-06-13 09:51:37,921 - Epoch 10/100, Train Loss: 0.4078
+2025-06-13 09:51:44,286 - Epoch 10/100, Val Loss: 0.4169, Val AUC: 0.8845
+2025-06-13 09:51:44,286 - Current learning rate: 0.0001
+2025-06-13 09:51:44,287 - Validation loss improved, saving model.
+2025-06-13 09:52:24,346 - Epoch 11/100, Train Loss: 0.4055
+2025-06-13 09:52:30,713 - Epoch 11/100, Val Loss: 0.4173, Val AUC: 0.8846
+2025-06-13 09:52:30,714 - Current learning rate: 0.0001
+2025-06-13 09:52:30,714 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:53:10,020 - Epoch 12/100, Train Loss: 0.4017
+2025-06-13 09:53:16,393 - Epoch 12/100, Val Loss: 0.4158, Val AUC: 0.8854
+2025-06-13 09:53:16,393 - Current learning rate: 0.0001
+2025-06-13 09:53:16,393 - Validation loss improved, saving model.
+2025-06-13 09:53:55,872 - Epoch 13/100, Train Loss: 0.3999
+2025-06-13 09:54:02,248 - Epoch 13/100, Val Loss: 0.4212, Val AUC: 0.8846
+2025-06-13 09:54:02,248 - Current learning rate: 0.0001
+2025-06-13 09:54:02,248 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:54:41,797 - Epoch 14/100, Train Loss: 0.3974
+2025-06-13 09:54:48,167 - Epoch 14/100, Val Loss: 0.4236, Val AUC: 0.8836
+2025-06-13 09:54:48,168 - Current learning rate: 0.0001
+2025-06-13 09:54:48,168 - No improvement in validation loss. Patience counter: 2/5
+2025-06-13 09:55:27,709 - Epoch 15/100, Train Loss: 0.3954
+2025-06-13 09:55:34,076 - Epoch 15/100, Val Loss: 0.4166, Val AUC: 0.8861
+2025-06-13 09:55:34,076 - Current learning rate: 0.0001
+2025-06-13 09:55:34,076 - No improvement in validation loss. Patience counter: 3/5
+2025-06-13 09:56:13,181 - Epoch 16/100, Train Loss: 0.3930
+2025-06-13 09:56:19,533 - Epoch 16/100, Val Loss: 0.4173, Val AUC: 0.8870
+2025-06-13 09:56:19,533 - Current learning rate: 1e-05
+2025-06-13 09:56:19,533 - No improvement in validation loss. Patience counter: 4/5
+2025-06-13 09:56:58,881 - Epoch 17/100, Train Loss: 0.3709
+2025-06-13 09:57:05,257 - Epoch 17/100, Val Loss: 0.4120, Val AUC: 0.8890
+2025-06-13 09:57:05,257 - Current learning rate: 1e-05
+2025-06-13 09:57:05,257 - Validation loss improved, saving model.
+2025-06-13 09:57:44,483 - Epoch 18/100, Train Loss: 0.3674
+2025-06-13 09:57:50,848 - Epoch 18/100, Val Loss: 0.4101, Val AUC: 0.8887
+2025-06-13 09:57:50,849 - Current learning rate: 1e-05
+2025-06-13 09:57:50,849 - Validation loss improved, saving model.
+2025-06-13 09:58:30,138 - Epoch 19/100, Train Loss: 0.3654
+2025-06-13 09:58:36,503 - Epoch 19/100, Val Loss: 0.4127, Val AUC: 0.8879
+2025-06-13 09:58:36,503 - Current learning rate: 1e-05
+2025-06-13 09:58:36,503 - No improvement in validation loss. Patience counter: 1/5
+2025-06-13 09:59:15,566 - Epoch 20/100, Train Loss: 0.3639
+2025-06-13 09:59:21,919 - Epoch 20/100, Val Loss: 0.4115, Val AUC: 0.8886
+2025-06-13 09:59:21,919 - Current learning rate: 1e-05
+2025-06-13 09:59:21,919 - No improvement in validation loss. Patience counter: 2/5
+2025-06-13 10:00:01,372 - Epoch 21/100, Train Loss: 0.3621
+2025-06-13 10:00:07,730 - Epoch 21/100, Val Loss: 0.4121, Val AUC: 0.8882
+2025-06-13 10:00:07,730 - Current learning rate: 1e-05
+2025-06-13 10:00:07,730 - No improvement in validation loss. Patience counter: 3/5
+2025-06-13 10:00:46,641 - Epoch 22/100, Train Loss: 0.3607
+2025-06-13 10:00:53,013 - Epoch 22/100, Val Loss: 0.4135, Val AUC: 0.8882
+2025-06-13 10:00:53,013 - Current learning rate: 1.0000000000000002e-06
+2025-06-13 10:00:53,013 - No improvement in validation loss. Patience counter: 4/5
+2025-06-13 10:01:30,931 - Epoch 23/100, Train Loss: 0.3567
+2025-06-13 10:01:37,285 - Epoch 23/100, Val Loss: 0.4129, Val AUC: 0.8886
+2025-06-13 10:01:37,286 - Current learning rate: 1.0000000000000002e-06
+2025-06-13 10:01:37,286 - No improvement in validation loss. Patience counter: 5/5
+2025-06-13 10:01:37,286 - Early stopping triggered.
+2025-06-13 10:01:46,486 - Test AUC: 0.8338
+2025-06-13 10:01:55,734 - Test Accuracy: 75.58%
+2025-06-13 10:01:55,856 - 预测结果已保存至 predictions.csv
